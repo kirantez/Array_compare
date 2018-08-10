@@ -10,7 +10,7 @@ void main()
     int i=0,j,count=0,a=0,b=0,x=0,y=0,k,l;
     printf("Enter array_1: ");
     fgets(array,5000,stdin);
-    printf("Enarray_22: ");
+    printf("Enarray_2: ");
     fgets(array2,5000,stdin);
     while(array[i] != '\0')
     {
